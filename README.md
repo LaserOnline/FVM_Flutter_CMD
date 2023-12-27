@@ -33,7 +33,7 @@ FVM Use Flutter Version
 FVM Check Version Project Flutter
 
 ```bash
-  fvm current
+  fvm flutter --version
 ```
 
 FVM Install Package Flutter
