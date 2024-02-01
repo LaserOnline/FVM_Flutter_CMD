@@ -15,7 +15,7 @@ FVM List Version New
 FVM List Version
 
 ```bash
-  fvm flutter list
+  fvm list
 ```
 
 FVM Install Version
